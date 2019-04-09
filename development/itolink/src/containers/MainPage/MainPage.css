@@ -1,0 +1,13 @@
+.mainSection {
+  display: flex;
+  flex-wrap: wrap;
+}
+.mainLeft {
+  float: left;
+  width: calc(100% - 300px);
+  padding-right : 42px;
+}
+.mainRight {
+  float: left;
+  width: 300px;
+}

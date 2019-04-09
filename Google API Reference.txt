@@ -1,0 +1,7 @@
+"Not a valid origin for the client: http://localhost:3000 has not been whitelisted for client ID 833767803850-3n8e02oeqo5qq9cbiu4me0r3ul2vth4n.apps.googleusercontent.com. Please go to https://console.developers.google.com/ and whitelist this origin for your project's client ID."
+
+https://stackoverflow.com/questions/43964539/google-api-not-a-valid-origin-for-the-client-url-has-not-been-whitelisted-for
+
+https://github.com/google/google-api-javascript-client/issues/319
+
+https://developers.google.com/api-client-library/javascript/reference/referencedocs

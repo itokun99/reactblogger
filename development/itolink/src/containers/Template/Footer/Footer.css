@@ -1,0 +1,19 @@
+.footerSection {
+  position: relative;
+  background-color: #20232a;
+  color: #fff;
+}
+.footerContainer {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 14px;
+}
+.footerContent {
+  padding: 24px 0;
+}
+.copyRightHolder {
+  text-align: center;
+}
+.copyRightHolder p {
+  margin: 0;
+}

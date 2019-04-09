@@ -1,0 +1,22 @@
+.postListSection {
+  padding: 62px 0;
+}
+.postList {
+  margin-bottom: 24px;
+}
+.postListItem {
+    position: relative;
+    overflow: hidden;
+}
+.postListItem {
+    padding: 14px 0;
+}
+.postListTitle {
+    margin: 0;
+    font-size: 32px;
+    line-height: 1.4;
+    margin-bottom: 14px;
+}
+.postListSnippet {
+    line-height: 1.8;
+}
